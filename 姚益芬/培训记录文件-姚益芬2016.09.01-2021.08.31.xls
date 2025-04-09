@@ -1,0 +1,73 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div>
+	<table cellspacing="0" rules="all" border="1" id="GridView1" style="width:100%;border-collapse:collapse;">
+		<tr style="background-color:AliceBlue;">
+			<th scope="col">自主选课</th><th scope="col">培训机构</th><th scope="col">项目名称</th><th scope="col">班期名称</th><th scope="col">培训时间</th><th scope="col">培训学时</th>
+		</tr><tr onmouseover="if(this!=prevselitem){this.style.backgroundColor=&#39;#Efefef&#39;}" onmouseout="if(this!=prevselitem){this.style.backgroundColor=&#39;#ffffff&#39;}" onclick="selectx(this)" style="cursor:hand;">
+			<td>1</td><td>014金华教育学院</td><td>小学语文写作教学反思与研究（高级）</td><td>小学语文写作教学反思与研究（高级）</td><td>2016-12-09 至 2016-12-11</td><td>24</td>
+		</tr><tr onmouseover="if(this!=prevselitem){this.style.backgroundColor=&#39;#Efefef&#39;}" onmouseout="if(this!=prevselitem){this.style.backgroundColor=&#39;#ffffff&#39;}" onclick="selectx(this)" style="cursor:hand;">
+			<td>2</td><td>014金华教育学院</td><td>小学语文教师心灵成长培训班（高级）</td><td>小学语文教师心灵成长培训班（高级）</td><td>2017-11-01 至 2017-11-04</td><td>32</td>
+		</tr><tr onmouseover="if(this!=prevselitem){this.style.backgroundColor=&#39;#Efefef&#39;}" onmouseout="if(this!=prevselitem){this.style.backgroundColor=&#39;#ffffff&#39;}" onclick="selectx(this)" style="cursor:hand;">
+			<td>3</td><td>014金华教育学院</td><td>传承传统文化 提升师德修养</td><td>金东区小学教师师德培训1班</td><td>2018-03-30 至 2018-08-26</td><td>28</td>
+		</tr><tr onmouseover="if(this!=prevselitem){this.style.backgroundColor=&#39;#Efefef&#39;}" onmouseout="if(this!=prevselitem){this.style.backgroundColor=&#39;#ffffff&#39;}" onclick="selectx(this)" style="cursor:hand;">
+			<td>4</td><td>014金华教育学院</td><td>智慧语文课堂：手机、白板等新媒介的互动课堂融合</td><td>智慧语文课堂：手机、白板等新媒介的互动课堂融合</td><td>2019-07-02 至 2019-07-13</td><td>90</td>
+		</tr><tr onmouseover="if(this!=prevselitem){this.style.backgroundColor=&#39;#Efefef&#39;}" onmouseout="if(this!=prevselitem){this.style.backgroundColor=&#39;#ffffff&#39;}" onclick="selectx(this)" style="cursor:hand;">
+			<td>5</td><td>038百年树人网</td><td>2020年能力提升工程2.0项目 （金华市金东区实验小学）</td><td>2020年能力提升工程2.0项目 （金华市金东区实验小学）</td><td>2020-12-01 至 2021-08-22</td><td>50</td>
+		</tr><tr onmouseover="if(this!=prevselitem){this.style.backgroundColor=&#39;#Efefef&#39;}" onmouseout="if(this!=prevselitem){this.style.backgroundColor=&#39;#ffffff&#39;}" onclick="selectx(this)" style="cursor:hand;">
+			<td>6</td><td>014金华教育学院</td><td>金华市中小学教师书法素养培训（定向金东区实验小学）</td><td>金华市中小学教师书法素养培训（定向金东区实验小学）</td><td>2021-03-20 至 2021-06-25</td><td>48</td>
+		</tr><tr onmouseover="if(this!=prevselitem){this.style.backgroundColor=&#39;#Efefef&#39;}" onmouseout="if(this!=prevselitem){this.style.backgroundColor=&#39;#ffffff&#39;}" onclick="selectx(this)" style="cursor:hand;">
+			<td>7</td><td>002浙江师范大学</td><td>金东区中小学教师思政教育能力提高培训</td><td>（面授）2021上金东区中小学教师思政教育能力提高培训1班（跨学段、中级、24学时）</td><td>2021-07-03 至 2021-07-05</td><td>24</td>
+		</tr><tr onmouseover="if(this!=prevselitem){this.style.backgroundColor=&#39;#Efefef&#39;}" onmouseout="if(this!=prevselitem){this.style.backgroundColor=&#39;#ffffff&#39;}" onclick="selectx(this)" style="cursor:hand;">
+			<td>其中能力提升2.0</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr onmouseover="if(this!=prevselitem){this.style.backgroundColor=&#39;#Efefef&#39;}" onmouseout="if(this!=prevselitem){this.style.backgroundColor=&#39;#ffffff&#39;}" onclick="selectx(this)" style="cursor:hand;">
+			<td>小计</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>296</td>
+		</tr><tr onmouseover="if(this!=prevselitem){this.style.backgroundColor=&#39;#Efefef&#39;}" onmouseout="if(this!=prevselitem){this.style.backgroundColor=&#39;#ffffff&#39;}" onclick="selectx(this)" style="cursor:hand;">
+			<td>指令性</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr onmouseover="if(this!=prevselitem){this.style.backgroundColor=&#39;#Efefef&#39;}" onmouseout="if(this!=prevselitem){this.style.backgroundColor=&#39;#ffffff&#39;}" onclick="selectx(this)" style="cursor:hand;">
+			<td>1</td><td>004杭州师范大学</td><td>浙江省2016年度名师工作室培训——学前义务教育段</td><td>浙江省2016年度名师工作室培训——学前义务教育段</td><td>2015-12-01 至 2016-11-30</td><td>30</td>
+		</tr><tr onmouseover="if(this!=prevselitem){this.style.backgroundColor=&#39;#Efefef&#39;}" onmouseout="if(this!=prevselitem){this.style.backgroundColor=&#39;#ffffff&#39;}" onclick="selectx(this)" style="cursor:hand;">
+			<td>2</td><td>002浙江师范大学</td><td>2018上半年混合式培训新时代 新发展 新作为——深入学习十九大 开启教育新征程</td><td>2018上半年混合式培训新时代 新发展 新作为——深入学习十九大 开启教育新征程</td><td>2018-04-15 至 2018-06-30</td><td>10</td>
+		</tr><tr onmouseover="if(this!=prevselitem){this.style.backgroundColor=&#39;#Efefef&#39;}" onmouseout="if(this!=prevselitem){this.style.backgroundColor=&#39;#ffffff&#39;}" onclick="selectx(this)" style="cursor:hand;">
+			<td>3</td><td>014金华教育学院</td><td>后疫情时期教师自我关怀及课堂教学研讨</td><td>后疫情时期教师自我关怀及课堂教学研讨</td><td>2020-05-19 至 2020-06-26</td><td>40</td>
+		</tr><tr onmouseover="if(this!=prevselitem){this.style.backgroundColor=&#39;#Efefef&#39;}" onmouseout="if(this!=prevselitem){this.style.backgroundColor=&#39;#ffffff&#39;}" onclick="selectx(this)" style="cursor:hand;">
+			<td>4</td><td>028浙江省教育技术中心</td><td>2021年师德专题学习【金华市】</td><td>2021年师德专题学习</td><td>2021-06-05 至 2021-07-14</td><td>1</td>
+		</tr><tr onmouseover="if(this!=prevselitem){this.style.backgroundColor=&#39;#Efefef&#39;}" onmouseout="if(this!=prevselitem){this.style.backgroundColor=&#39;#ffffff&#39;}" onclick="selectx(this)" style="cursor:hand;">
+			<td>小计</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>81</td>
+		</tr><tr onmouseover="if(this!=prevselitem){this.style.backgroundColor=&#39;#Efefef&#39;}" onmouseout="if(this!=prevselitem){this.style.backgroundColor=&#39;#ffffff&#39;}" onclick="selectx(this)" style="cursor:hand;">
+			<td>校本研修</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr onmouseover="if(this!=prevselitem){this.style.backgroundColor=&#39;#Efefef&#39;}" onmouseout="if(this!=prevselitem){this.style.backgroundColor=&#39;#ffffff&#39;}" onclick="selectx(this)" style="cursor:hand;">
+			<td>1</td><td>金华市金东区实验小学</td><td>校本培训</td><td>&nbsp;</td><td>2017-09-25 至 2017-11-06</td><td>24</td>
+		</tr><tr onmouseover="if(this!=prevselitem){this.style.backgroundColor=&#39;#Efefef&#39;}" onmouseout="if(this!=prevselitem){this.style.backgroundColor=&#39;#ffffff&#39;}" onclick="selectx(this)" style="cursor:hand;">
+			<td>2</td><td>金华市金东区实验小学</td><td>金东区实验小学2018学年第一学期校本培训</td><td>&nbsp;</td><td>2018-08-26 至 2018-08-31</td><td>24</td>
+		</tr><tr onmouseover="if(this!=prevselitem){this.style.backgroundColor=&#39;#Efefef&#39;}" onmouseout="if(this!=prevselitem){this.style.backgroundColor=&#39;#ffffff&#39;}" onclick="selectx(this)" style="cursor:hand;">
+			<td>3</td><td>金华市金东区实验小学</td><td>2019学年金东区实验小学暑期师德培训方案</td><td>&nbsp;</td><td>2019-08-26 至 2019-08-31</td><td>24</td>
+		</tr><tr onmouseover="if(this!=prevselitem){this.style.backgroundColor=&#39;#Efefef&#39;}" onmouseout="if(this!=prevselitem){this.style.backgroundColor=&#39;#ffffff&#39;}" onclick="selectx(this)" style="cursor:hand;">
+			<td>4</td><td>金华市金东区实验小学</td><td>2019学年第一学期各学科教研计划</td><td>&nbsp;</td><td>2019-08-26 至 2020-01-20</td><td>24</td>
+		</tr><tr onmouseover="if(this!=prevselitem){this.style.backgroundColor=&#39;#Efefef&#39;}" onmouseout="if(this!=prevselitem){this.style.backgroundColor=&#39;#ffffff&#39;}" onclick="selectx(this)" style="cursor:hand;">
+			<td>5</td><td>金华市金东区实验小学</td><td>2020实验小学校本研修</td><td>&nbsp;</td><td>2020-08-25 至 2020-08-31</td><td>24</td>
+		</tr><tr onmouseover="if(this!=prevselitem){this.style.backgroundColor=&#39;#Efefef&#39;}" onmouseout="if(this!=prevselitem){this.style.backgroundColor=&#39;#ffffff&#39;}" onclick="selectx(this)" style="cursor:hand;">
+			<td>6</td><td>金华市金东区实验小学</td><td>2020学年金东区实验小学校本培训</td><td>&nbsp;</td><td>2020-08-26 至 2020-08-31</td><td>24</td>
+		</tr><tr onmouseover="if(this!=prevselitem){this.style.backgroundColor=&#39;#Efefef&#39;}" onmouseout="if(this!=prevselitem){this.style.backgroundColor=&#39;#ffffff&#39;}" onclick="selectx(this)" style="cursor:hand;">
+			<td>7</td><td>金华市金东区实验小学</td><td>金东区实验小学2021学年暑期师德培训</td><td>&nbsp;</td><td>2021-08-25 至 2021-08-31</td><td>24</td>
+		</tr><tr onmouseover="if(this!=prevselitem){this.style.backgroundColor=&#39;#Efefef&#39;}" onmouseout="if(this!=prevselitem){this.style.backgroundColor=&#39;#ffffff&#39;}" onclick="selectx(this)" style="cursor:hand;">
+			<td>小计</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>168</td>
+		</tr><tr onmouseover="if(this!=prevselitem){this.style.backgroundColor=&#39;#Efefef&#39;}" onmouseout="if(this!=prevselitem){this.style.backgroundColor=&#39;#ffffff&#39;}" onclick="selectx(this)" style="cursor:hand;">
+			<td>思政课培训</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr onmouseover="if(this!=prevselitem){this.style.backgroundColor=&#39;#Efefef&#39;}" onmouseout="if(this!=prevselitem){this.style.backgroundColor=&#39;#ffffff&#39;}" onclick="selectx(this)" style="cursor:hand;">
+			<td>小计</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>0</td>
+		</tr><tr onmouseover="if(this!=prevselitem){this.style.backgroundColor=&#39;#Efefef&#39;}" onmouseout="if(this!=prevselitem){this.style.backgroundColor=&#39;#ffffff&#39;}" onclick="selectx(this)" style="cursor:hand;">
+			<td>总计</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>545</td>
+		</tr><tr onmouseover="if(this!=prevselitem){this.style.backgroundColor=&#39;#Efefef&#39;}" onmouseout="if(this!=prevselitem){this.style.backgroundColor=&#39;#ffffff&#39;}" onclick="selectx(this)" style="cursor:hand;">
+			<td>其中远程</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr onmouseover="if(this!=prevselitem){this.style.backgroundColor=&#39;#Efefef&#39;}" onmouseout="if(this!=prevselitem){this.style.backgroundColor=&#39;#ffffff&#39;}" onclick="selectx(this)" style="cursor:hand;">
+			<td>1</td><td>028浙江省教育技术中心</td><td>2021年师德专题学习【金华市】</td><td>2021年师德专题学习</td><td>2021-06-05 至 2021-07-14</td><td>1</td>
+		</tr><tr onmouseover="if(this!=prevselitem){this.style.backgroundColor=&#39;#Efefef&#39;}" onmouseout="if(this!=prevselitem){this.style.backgroundColor=&#39;#ffffff&#39;}" onclick="selectx(this)" style="cursor:hand;">
+			<td>小计</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1</td>
+		</tr><tr onmouseover="if(this!=prevselitem){this.style.backgroundColor=&#39;#Efefef&#39;}" onmouseout="if(this!=prevselitem){this.style.backgroundColor=&#39;#ffffff&#39;}" onclick="selectx(this)" style="cursor:hand;">
+			<td>90及以上集中培训</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr onmouseover="if(this!=prevselitem){this.style.backgroundColor=&#39;#Efefef&#39;}" onmouseout="if(this!=prevselitem){this.style.backgroundColor=&#39;#ffffff&#39;}" onclick="selectx(this)" style="cursor:hand;">
+			<td>1</td><td>014金华教育学院</td><td>智慧语文课堂：手机、白板等新媒介的互动课堂融合</td><td>智慧语文课堂：手机、白板等新媒介的互动课堂融合</td><td>2019-07-02 至 2019-07-13</td><td>90</td>
+		</tr><tr onmouseover="if(this!=prevselitem){this.style.backgroundColor=&#39;#Efefef&#39;}" onmouseout="if(this!=prevselitem){this.style.backgroundColor=&#39;#ffffff&#39;}" onclick="selectx(this)" style="cursor:hand;">
+			<td>小计</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>90</td>
+		</tr>
+	</table>
+</div>
